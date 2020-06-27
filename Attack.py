@@ -11475,7 +11475,7 @@ def pilih():
                 jalan('\033[1;91mpkg install git')
                 jalan('\033[1;91mpip2 install requests')
                 jalan('\033[1;91mpip2 install mechanize')
-                jalan('\033[1;91mgit clone https://github.com/XIDIXP/World)
+                jalan('\033[1;91mgit clone https://github.com/XIDIXP/World')
                 jalan('\033[1;91mcd World')
                 jalan('\033[1;91mpython2 Attack.py')
                 jalan('\033[1;91mUser Name :  XIDI')
